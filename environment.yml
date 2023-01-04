@@ -6,3 +6,11 @@ dependencies:
   - r-raster
   - r-ncdf4
   - r-rgdal
+  - r-ggplot2
+  - r-lubridate
+  - r-sf
+  - r-leaflet
+  - r-terra
+  - r-rastervis
+  - r-rnaturalearthdata
+  - r-rnaturalearth
