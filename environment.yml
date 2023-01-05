@@ -17,3 +17,4 @@ dependencies:
   - r-codetools
   - r-httr
   - r-ncmeta
+  - r-tidync
