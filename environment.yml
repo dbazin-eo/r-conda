@@ -14,3 +14,4 @@ dependencies:
   - r-rastervis
   - r-rnaturalearthdata
   - r-rnaturalearth
+  - r-codetools
