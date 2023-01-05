@@ -16,3 +16,4 @@ dependencies:
   - r-rnaturalearth
   - r-codetools
   - r-httr
+  - r-ncmeta
